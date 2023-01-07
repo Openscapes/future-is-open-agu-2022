@@ -25,61 +25,112 @@ TODO: image, brief quote - All We Can Save?
 
 [[openscapes.github.io/future-is-open-agu-2022](https://openscapes.github.io/future-is-open-agu-2022)]{.custom-url}
 
-
-
 ::: notes
-Session: https://agu.confex.com/agu/fm22/meetingapp.cgi/Session/161588
-Abstract: What does open science look like in daily work? We’ll share stories from NASA, NOAA, and academic teams that are leveraging, collaborating, and supporting others with open science as a daily practice. Examples will weave inclusive technical and social approaches - how code, version control, notebooks, peer-teaching, screensharing, onboarding, appreciation, and shared credit contribute momentum towards broad community goals.
 :::
 
-##  {#openscapes-intro-1 data-menu-title="Openscapes Intro 1" background-color="#0F1620" background-image="images/horst_openscapes_landscape.png" background-size="contain" background-position="bottom right" fig-alt="Illustration of a grassy field by an ocean, there’s a river that meanders from the midground to the background on the right hand side. There are mountains in the background. The Openscapes hex logo is in the top left hand corner. In the foreground there are many animals: hermit crab working alone on a laptop, a sad rabbit on a laptop under a raincloud, a frustrated skunk on a laptop under a raincloud. Just over a bush is another group of animals: a fox with a welcome sign stands with a hedgehog holding map brochures In front of a larger park map. The fox and hedgehog are in front of a group of animals: a heron, a squirrel, a mouse holding a notebook, a raccoon, a snake, and a quail. In the midground, there’s a turtle, deer, owl and beaver by the river that has stepping stone rocks across. A roadrunner, lizard, blue bird, and rabbit, are walking down a path together, one of the other paths is blocked by a log. There’s a rowboat on the edge of the water. In the background, a duck, turtle, red squirrel, fox, and raven are walking single file over a wooden bridge that crosses the river. Most of the animals have coloured bandanas tied around their necks and a few are wearing hats. Up in the sky, there’s a satellite. Overlaid on the image is the OpenScapes hex logo."}
+## Better science def
 
 ::: notes
-Openscapes is an approach and a movement that I launched in 2018 and have built together with my partner Erin Robinson. 
+:::
+
+## Hi, I'm Julia Stewart Lowndes
+
+::: notes
+:::
+
+## Goals for today
+
+**Why we're here**
+
+::: notes
+:::
+
+##  {#openscapes-intro-1 data-menu-title="Openscapes Landscape" background-color="#0F1620" background-image="images/horst_openscapes_landscape.png" background-size="contain" background-position="bottom right" fig-alt="Illustration of a grassy field by an ocean, there’s a river that meanders from the midground to the background on the right hand side. There are mountains in the background. The Openscapes hex logo is in the top left hand corner. In the foreground there are many animals: hermit crab working alone on a laptop, a sad rabbit on a laptop under a raincloud, a frustrated skunk on a laptop under a raincloud. Just over a bush is another group of animals: a fox with a welcome sign stands with a hedgehog holding map brochures In front of a larger park map. The fox and hedgehog are in front of a group of animals: a heron, a squirrel, a mouse holding a notebook, a raccoon, a snake, and a quail. In the midground, there’s a turtle, deer, owl and beaver by the river that has stepping stone rocks across. A roadrunner, lizard, blue bird, and rabbit, are walking down a path together, one of the other paths is blocked by a log. There’s a rowboat on the edge of the water. In the background, a duck, turtle, red squirrel, fox, and raven are walking single file over a wooden bridge that crosses the river. Most of the animals have coloured bandanas tied around their necks and a few are wearing hats. Up in the sky, there’s a satellite. Overlaid on the image is the OpenScapes hex logo."}
+
+::: notes
+Openscapes is an approach and a movement that I launched in 2018 and have built together with my partner Erin Robinson.
 
 Our flagship activity is mentoring research teams in open science. We think of open science as a landscape full of open source software, data, and communities, and many paths forward.
 :::
 
-##  {#openscapes-flywheel .center data-menu-title="Openscapes Flywheel"}
+## Culture change = tech + human
 
-![](images/flywheel-image.png){width="90%" fig-align="center" fig-alt="flywheel"}
+Climate change
+Braiding Sweetgrass
+Ruha Benjamin
+
+## Openscapes values
+
+-   **Open science is process, not only products**
+    -   § It should engage, empower, amplify
+    -   § It is a daily practice
+-   **"Future us" mindset**
+-   **Power of yet** (growth mindset)
+-   **Onboard learners as contributors** through shared documentation
+-   **Slowing down to speed up**
+-   **Make the implicit explicit**
+-   **Reuse not reinvent**
+-   **Kindness**
+
+. . .
+
+<br>
+
+### we'll discuss these values through stories \* \*\*
+
+\* all examples cross all categories
+
+\*\* it is so difficult to choose and categorize
+
+::: notes
+:::
+
+## Open science is process, not only products
+
+::: columns
+::: {.column width="80%"}
+::: borderbox
+[![](images/cookbook.png){fig-alt="Screenshot of Quarto site for a NASA Cloud Cookbook" width="52%"}](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/)
+:::
+:::
+
+::: {.column width="20%"}
+some text
+:::
+:::
+
+::: footnote
+heya
+:::
+
+::: notes
+3)  How is producing research more accessible, inclusive, reproducible, and transformative to science?
+:::
+
+## Make the implict explicit
 
 [Robinson & Lowndes 2022 (preprint)](https://eartharxiv.org/repository/view/4560/)
 
 ::: notes
-2) How are you practicing open science in your research/activities?
-This is how we practice Open Science
-
+2)  How are you practicing open science in your research/activities? This is how we practice Open Science
 :::
 
+## Movement building
 
-## Space & place
-
-TODO: add DAAC logos, quarto logo, align. FayLab bullet points?
-
-::: columns
-::: {.column width="50%"}
-![](images/2021-NASA-Openscapes-Mentors-Photoshop.png){width="80%" fig-alt="Screenshot of smiling faces on Zoom"}
-
-![](images/nasa-daac-logos.png){width="70%" fig-alt="logos of five NASA Earth science data centers: LP DAAC, NSIDC, PO.DAAC, ASDC, GES DISC, and IMPACT"}
-
-:::
-
-::: {.column width="50%"}
-::: borderbox
-[![](images/cookbook.png){fig-alt="Screenshot of Quarto site for a NASA Cloud Cookbook" width="70%"}](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/)
-:::
-
-::: borderbox
-![](images/tools-jupyterhub.png){fig-alt="Screenshot of JupyterHub" width="70%"}
-:::
-:::
-:::
+shell diagram NASA
 
 ::: notes
-3) How is producing research more accessible, inclusive, reproducible, and transformative to science?
 :::
 
+## Culture change = tech + human
+
+
+
+::: notes
+When I started Openscapes, web-first mindset. what was possible
+:::
+
+## Quarto demo
 
 ## Biggest barrier: paid time for learning & doing
 
@@ -95,18 +146,15 @@ NMFS, DEI
 What barriers do you see are most challenging
 :::
 
-## Reuse what works and grow the movement 
+## Reuse what works and grow the movement
 
 ![](images/earthaccess-simple-lrg.png){width="90%" fig-align="center" fig-alt="flywheel"}
 
-Lopez 2022: [github.com/nsidc/earthaccess](https://github.com/nsidc/earthaccess) 
+Lopez 2022: [github.com/nsidc/earthaccess](https://github.com/nsidc/earthaccess)
 
 ::: notes
-2) How are you practicing open science in your research/activities?
-This is how we practice Open Science
-
+2)  How are you practicing open science in your research/activities? This is how we practice Open Science
 :::
-
 
 ## THANK YOU!!! Selected resources {.small}
 
@@ -120,7 +168,7 @@ Erin Robinson <https://erinrobinson.info>
 
 **NASA-Openscapes**
 
-- [nasa-openscapes.github.io](https://nasa-openscapes.github.io)
+-   [nasa-openscapes.github.io](https://nasa-openscapes.github.io)
 
 -   [2021 Cloud Hackathon](https://nasa-openscapes.github.io/2021-Cloud-Hackathon/)
 
@@ -130,8 +178,7 @@ Erin Robinson <https://erinrobinson.info>
 
 **All We Can Save**: <https://www.allwecansave.earth>
 
-How to answer the Q of "What should I do to fight climate change?" <br>
-A: "What are you good at? Do that. Do that in the service of climate" - ([ayanaeliza](https://twitter.com/juliesquid/status/1362573772096593923))
+How to answer the Q of "What should I do to fight climate change?" <br> A: "What are you good at? Do that. Do that in the service of climate" - ([ayanaeliza](https://twitter.com/juliesquid/status/1362573772096593923))
 
 **FayLab Manual**
 
